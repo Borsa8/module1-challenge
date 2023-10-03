@@ -2,7 +2,7 @@
 
 ## Description
 
-This project reflects my first-week learning experience in web development, covering HTML, CSS, Git, and GitHub. My motivation was to consolidate my new skills and showcase my progress. While not solving a specific problem, it serves as a portfolio of my abilities in creating a webpage with HTML,CSS and familiarising myself with Git/GitHub for version control.
+This project reflects my first-week learning experience in web development, covering HTML, CSS, Git, and GitHub. My motivation was to consolidate my new skills and showcase my progress. While not solving a specific problem, it serves as a portfolio of my abilities in creating a webpage with HTML, CSS and familiarising myself with Git/GitHub for version control.
 
 ## Installation
 
@@ -12,7 +12,7 @@ Please click [here](https://borsa8.github.io/module1-challenge) to view my proje
 
 You can see the preview below.
     
-    ![Preview](assets/images/screenshot.png)
+    [Preview](assets/images/screenshot.png)
 
 ## License
 
