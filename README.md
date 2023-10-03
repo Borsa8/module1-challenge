@@ -2,24 +2,18 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-This project reflects my first-week learning experience in web development, covering HTML, CSS, Git, and GitHub. My motivation was to consolidate my new skills and showcase my progress. While not solving a specific problem, it serves as a portfolio of my abilities in creating a webpage with HTML/CSS and using Git/GitHub for version control.
+This project reflects my first-week learning experience in web development, covering HTML, CSS, Git, and GitHub. My motivation was to consolidate my new skills and showcase my progress. While not solving a specific problem, it serves as a portfolio of my abilities in creating a webpage with HTML,CSS and familiarising myself with Git/GitHub for version control.
 
 ## Installation
 
-ADD LINK HERE
+Please click [here](https://borsa8.github.io/module1-challenge) to view my project.
 
 ## Usage
 
-ADD SCREENSHOT HERE
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+You can see the preview below.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Preview](assets/images/screenshot.png)
     ```
 
 ## License
