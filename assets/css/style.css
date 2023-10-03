@@ -1,5 +1,5 @@
 
-/* Style all */
+/* Style for the entire document */
 
 * {
     box-sizing: border-box;
@@ -13,7 +13,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Style the header */
+/* Header styles */
 
 .header {
     padding: 20px;
@@ -48,20 +48,20 @@ body {
     margin-left: 25px;
 }
 
-/* Link color and font */
+/* Link styles */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Paragraph font-size */
+/* Paragraph styles */
 
 p {
     font-size: 16px;
 }
 
-/* Hero class styling */
+/* Hero section styling */
 
 .hero {
     height: 800px;
@@ -87,6 +87,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Benefits section */
 
 .benefits {
     margin-right: 20px;
@@ -147,6 +149,8 @@ p {
     max-width: 150px;
 }
 
+/* Sections */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -201,9 +205,10 @@ p {
     font-size: 36px;
 }
 
+/* Footer style */
+
 footer {
     padding: 30px;
-
 }
 
 
