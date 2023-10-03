@@ -11,10 +11,8 @@ Please click [here](https://borsa8.github.io/module1-challenge) to view my proje
 ## Usage
 
 You can see the preview below.
-
-    ```md
+    
     ![Preview](assets/images/screenshot.png)
-    ```
 
 ## License
 
