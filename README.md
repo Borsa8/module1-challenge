@@ -12,7 +12,7 @@ Please click [here](https://borsa8.github.io/module1-challenge) to view my proje
 
 You can see the preview below.
     
-    [Preview](assets/images/screenshot.png)
+![screenshot](https://github.com/Borsa8/module1-challenge/assets/129904894/52ce0ff1-4eac-4f98-9000-29e2d3d5beeb)
 
 ## License
 
@@ -20,8 +20,8 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Features
 
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## How to Contribute
 
